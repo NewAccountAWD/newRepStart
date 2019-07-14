@@ -5,7 +5,6 @@ and some for 2 commit
 
 some edit before 2 pull request
 
-make here some conflict (after pull req ;))
 and some new str in commit from pull req
 conflict is solved ;)
 
