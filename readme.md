@@ -5,4 +5,4 @@ and some for 2 commit
 
 some edit before 2 pull request
 
-make here some conflict 
+make here some conflict (after pull req ;))
