@@ -9,3 +9,4 @@ and some new str in commit from pull req
 conflict is solved ;)
 
 comment in new feature
+comment 22:07 посмотрим ка простой случай
