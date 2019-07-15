@@ -8,3 +8,4 @@ ussue21 2 commit
 
 какой-то комментарий после merge 
 
+master commit )
