@@ -3,10 +3,6 @@ hellow ;) it's pull request
 
 and some for 2 commit
 
-some edit before 2 pull request
+booom ;)) ussue21
+ussue21 2 commit
 
-and some new str in commit from pull req
-conflict is solved ;)
-
-comment in new feature
-comment 22:07 посмотрим ка простой случай
